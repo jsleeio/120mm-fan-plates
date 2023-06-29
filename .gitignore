@@ -1,0 +1,25 @@
+# macOS yay
+.DS_Store
+
+# generated gerber/drill files
+*.drl
+*.gbr
+*.gbrjob
+*.txt
+*_drl_map.gbr
+*-drl.rpt
+*.rpt
+report.txt
+
+# generated gerber/drill zip files
+*.zip
+
+# protel naming
+*.g[tb][lsop]
+*.gm1
+
+# kicad backup directories
+*-backups
+
+# other kicad shit
+fp-info-cache
